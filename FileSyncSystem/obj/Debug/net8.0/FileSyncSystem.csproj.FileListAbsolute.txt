@@ -1,0 +1,14 @@
+C:\Users\muham\source\repos\FileSyncSystem\FileSyncSystem\bin\Debug\net8.0\FileSyncSystem.exe
+C:\Users\muham\source\repos\FileSyncSystem\FileSyncSystem\bin\Debug\net8.0\FileSyncSystem.deps.json
+C:\Users\muham\source\repos\FileSyncSystem\FileSyncSystem\bin\Debug\net8.0\FileSyncSystem.runtimeconfig.json
+C:\Users\muham\source\repos\FileSyncSystem\FileSyncSystem\bin\Debug\net8.0\FileSyncSystem.dll
+C:\Users\muham\source\repos\FileSyncSystem\FileSyncSystem\bin\Debug\net8.0\FileSyncSystem.pdb
+C:\Users\muham\source\repos\FileSyncSystem\FileSyncSystem\obj\Debug\net8.0\FileSyncSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\FileSyncSystem\FileSyncSystem\obj\Debug\net8.0\FileSyncSystem.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\FileSyncSystem\FileSyncSystem\obj\Debug\net8.0\FileSyncSystem.AssemblyInfo.cs
+C:\Users\muham\source\repos\FileSyncSystem\FileSyncSystem\obj\Debug\net8.0\FileSyncSystem.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\FileSyncSystem\FileSyncSystem\obj\Debug\net8.0\FileSyncSystem.dll
+C:\Users\muham\source\repos\FileSyncSystem\FileSyncSystem\obj\Debug\net8.0\refint\FileSyncSystem.dll
+C:\Users\muham\source\repos\FileSyncSystem\FileSyncSystem\obj\Debug\net8.0\FileSyncSystem.pdb
+C:\Users\muham\source\repos\FileSyncSystem\FileSyncSystem\obj\Debug\net8.0\FileSyncSystem.genruntimeconfig.cache
+C:\Users\muham\source\repos\FileSyncSystem\FileSyncSystem\obj\Debug\net8.0\ref\FileSyncSystem.dll
