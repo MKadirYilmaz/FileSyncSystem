@@ -12,3 +12,4 @@ C:\Users\muham\source\repos\FileSyncSystem\FileSyncSystem\obj\Release\net8.0\ref
 C:\Users\muham\source\repos\FileSyncSystem\FileSyncSystem\obj\Release\net8.0\FileSyncSystem.pdb
 C:\Users\muham\source\repos\FileSyncSystem\FileSyncSystem\obj\Release\net8.0\FileSyncSystem.genruntimeconfig.cache
 C:\Users\muham\source\repos\FileSyncSystem\FileSyncSystem\obj\Release\net8.0\ref\FileSyncSystem.dll
+C:\Users\muham\source\repos\FileSyncSystem\FileSyncSystem\obj\Release\net8.0\FileSyncSystem.sourcelink.json

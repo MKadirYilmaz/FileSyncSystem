@@ -13,7 +13,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedWidth": 208,
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -28,10 +28,20 @@
               "RelativeDocumentMoniker": "FileSyncSystem\\Program.cs",
               "ToolTip": "C:\\Users\\muham\\source\\repos\\FileSyncSystem\\FileSyncSystem\\Program.cs",
               "RelativeToolTip": "FileSyncSystem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAQwIcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T15:45:23.203Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 64,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
